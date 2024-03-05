@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="list_first_name">
+        <item>Misha</item>
+        <item>Dima</item>
+        <item>Serega</item>
+        <item>Daniil</item>
+        <item>Valya</item>
+        <item>Masha</item>
+        <item>Dasha</item>
+        <item>Katya</item>
+        <item>Sasha</item>
+        <item>Nikita</item>
+    </string-array>
+
+    <string-array name="list_second_name">
+        <item>Panchenkov</item>
+        <item>Saprikin</item>
+        <item>Prokofyev</item>
+        <item>Popov</item>
+        <item>Samonchev</item>
+        <item>Makarenkova</item>
+        <item>Shkrebo</item>
+        <item>Vasilyeva</item>
+        <item>Tolstov</item>
+        <item>Petuhov</item>
+    </string-array>
+
+    <string-array name="list_phone_number">
+        <item>89123456789</item>
+        <item>89234567890</item>
+        <item>89345678901</item>
+        <item>89456789012</item>
+        <item>89567890123</item>
+        <item>89678901234</item>
+        <item>89789012345</item>
+        <item>89890123456</item>
+        <item>89901234567</item>
+        <item>89012345678</item>
+    </string-array>
+
+</resources>
