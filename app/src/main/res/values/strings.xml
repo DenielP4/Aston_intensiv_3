@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RecyclerApp</string>
+    <string name="ic_delete">Удалить</string>
+
+    <string name="btn_add">Добавить контакт</string>
+    <string name="btn_delete">Удалить</string>
+    <string name="btn_cancel">Отменить</string>
+    <string name="btn_create">Создать</string>
+    <string name="btn_save">Сохранить</string>
+
+    <string name="action_list_screen">Контакты</string>
+    <string name="action_create_contact_screen">Добавление контакта</string>
+    <string name="action_edit_contact_screen">Редактирование контакта</string>
+
+    <string name="title_add_contact">Новый контакт</string>
+    <string name="title_edit_contact">Редактирование</string>
+
+    <string name="ed_hint_first_name">Имя</string>
+    <string name="ed_hint_last_name">Фамилия</string>
+    <string name="ed_hint_phone">Номер телефона</string>
+
+    <string name="warning">Все поля необходимо заполнить!</string>
+
+    <string name="position_key">POSITION_KEY</string>
+    <string name="fragment_list_contact">LIST_CONTACT_FRAGMENT_TAG</string>
+
+</resources>
